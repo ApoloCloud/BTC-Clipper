@@ -1,0 +1,18 @@
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\bin\Release\BTC Clipper.exe.config
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\bin\Release\BTC Clipper.exe
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\bin\Release\BTC Clipper.pdb
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\obj\Release\BTC_Clipper.Properties.Resources.resources
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\obj\Release\BTC Clipper.csproj.GenerateResource.cache
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\obj\Release\BTC Clipper.csproj.CoreCompileInputs.cache
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\obj\Release\BTC Clipper.exe
+C:\Users\samge\source\repos\BTC Clipper\BTC Clipper\obj\Release\BTC Clipper.pdb
+C:\Users\bypas\Source\Repos\BTC-Clipper\BTC Clipper\bin\Release\BTC Clipper.exe.config
+C:\Users\bypas\Source\Repos\BTC-Clipper\BTC Clipper\bin\Release\BTC Clipper.exe
+C:\Users\bypas\Source\Repos\BTC-Clipper\BTC Clipper\bin\Release\BTC Clipper.pdb
+C:\Users\bypas\Source\Repos\BTC-Clipper\BTC Clipper\obj\Release\BTC Clipper.csproj.AssemblyReference.cache
+C:\Users\bypas\Source\Repos\BTC-Clipper\BTC Clipper\obj\Release\BTC Clipper.csproj.SuggestedBindingRedirects.cache
+C:\Users\bypas\Source\Repos\BTC-Clipper\BTC Clipper\obj\Release\BTC_Clipper.Properties.Resources.resources
+C:\Users\bypas\Source\Repos\BTC-Clipper\BTC Clipper\obj\Release\BTC Clipper.csproj.GenerateResource.cache
+C:\Users\bypas\Source\Repos\BTC-Clipper\BTC Clipper\obj\Release\BTC Clipper.csproj.CoreCompileInputs.cache
+C:\Users\bypas\Source\Repos\BTC-Clipper\BTC Clipper\obj\Release\BTC Clipper.exe
+C:\Users\bypas\Source\Repos\BTC-Clipper\BTC Clipper\obj\Release\BTC Clipper.pdb
